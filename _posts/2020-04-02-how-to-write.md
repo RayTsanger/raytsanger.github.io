@@ -11,7 +11,7 @@ description: 文章金句。
 
 ![image](https://github.com/RayTsanger/raytsanger.github.io/blob/master/_posts/img/kod.png)
 
-![image](https://github.com/RayTsanger/raytsanger.github.io/blob/master/_posts/img/123.jpg)
+![image](https://www.right.com.cn/forum/data/attachment/forum/202003/12/110406qez8jtb5s1imfj5j.png)
 
 
 
