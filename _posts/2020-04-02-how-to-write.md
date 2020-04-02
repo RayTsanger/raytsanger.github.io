@@ -7,9 +7,9 @@ tags: [标签一,标签二]
 description: 文章金句。
 ---
 
-教程很简单，一张图片介绍完毕，简单吧。
+教程很简单，一张图片介绍完毕。
 
-/img/kod.png
+![image](https://github.com/RayTsanger/raytsanger.github.io/blob/master/_posts/img/kod.png)
 
 
 
