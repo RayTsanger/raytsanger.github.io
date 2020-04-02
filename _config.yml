@@ -2,15 +2,15 @@
 title: RayTsang's Blog # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "落花人独立，微雨燕双飞！"  # 一句话描述你的博客
+description: "这是我的博客"  # 一句话描述你的博客
 baseurl: ""
-url: "https://raytsanger.github.io/"  # 此处填写你的博客地址 
+url: "http://cnfeat"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
   name: "RayTsang" # 填写作者信息：名字
-  email: superzangzl@126.com # 填写作者信息：邮箱
-  bio: "落花人独立，微雨燕双飞！" # 填写作者信息：博客描述
+  email: X@gmail.com # 填写作者信息：邮箱
+  bio: "你的博客描述" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
