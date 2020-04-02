@@ -8,7 +8,7 @@ description: 文章金句。
 ---
 
 教程很简单，一张图片介绍完毕。
-"img/kod.png"
+https://github.com/RayTsanger/raytsanger.github.io/blob/master/img/kod.png
 
 
 
