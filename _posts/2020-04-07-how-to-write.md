@@ -15,7 +15,7 @@ description: 文章金句。
   继续输入w，保存分区表  
   ![image](https://i.loli.net/2020/04/07/pSFH3V6NW7ODBKX.png)
 
-  开始格式化分区，输入mkfs.ext4   
+  开始格式化分区，输入mkfs.ext4 /dev/sda3   
   ![image](https://i.loli.net/2020/04/07/LimlMRvkJ87bszC.png)
 
   挂载分区  
