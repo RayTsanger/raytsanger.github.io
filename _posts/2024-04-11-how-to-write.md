@@ -18,6 +18,7 @@ description: 文章金句。
 ## 2进入源码目录
 
 >cd openwrt
+
 ## 3下载 feeds 源中的软件包源码
 
 >./scripts/feeds update -a
@@ -26,6 +27,7 @@ feeds 是扩展的软件包，独立于 Open­Wrt 源码之外，所以需要单
 ## 4安装 feeds 中的软件包
 
 >./scripts/feeds install -a
+
 ## 5调整 Open­Wrt 系统组件
 
 >make menuconfig
