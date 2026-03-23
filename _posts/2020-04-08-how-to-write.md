@@ -26,33 +26,41 @@ description: 文章金句。
 &emsp;&emsp;2.3.2 注册海康威视摄像头OCX控件。在文件上右键点击打开方式，找到regsvr32.exe点打开，再确定。   
 
 ![image](https://i.loli.net/2020/04/08/UErdx2KJ6cy1zAn.png)
+![image](https://github.com/RayTsanger/picx-images-hosting/raw/master/20260323/kingview1.wj4i3do6x.webp)
 
 &emsp;&emsp;2.3.3 在工程画面中点击插入通用控件。
 
 ![image](https://i.loli.net/2020/04/08/buqtkSei85raWK9.png)
+![image](https://github.com/RayTsanger/picx-images-hosting/raw/master/20260323/kingview2.4g527wgdyy.webp)
 
 &emsp;&emsp;2.3.4 选择NetVideoActiveX23控件。
 
 ![image](https://i.loli.net/2020/04/08/ReEPasJMYXZbgBq.png)
+![image](https://github.com/RayTsanger/picx-images-hosting/raw/master/20260323/kingview3.32ij3v5by2.webp)
 
 &emsp;&emsp;2.3.5 添加控制按钮。
 
 ![image](https://i.loli.net/2020/04/08/7FdW6mn1MkIicNa.png)
+![image](https://github.com/RayTsanger/picx-images-hosting/raw/master/20260323/kingview4.wj4i3do6z.webp)
 
 &emsp;&emsp;2.3.6 更改字符串为需要显示文字。
 
 ![image](https://i.loli.net/2020/04/08/1QFckjnwLTVDtME.png)
+![image](https://github.com/RayTsanger/picx-images-hosting/raw/master/20260323/kingview5.b9gvsj7wc.webp)
 
 &emsp;&emsp;2.3.7 双击打开动画连接属性，点击按下时出现命令语言页面写入需要的命令，点击确定退出。
 
 ![image](https://i.loli.net/2020/04/08/e1BN2MOqmgfFkEp.png)
+![image](https://github.com/RayTsanger/picx-images-hosting/raw/master/20260323/kingview6.b9gvsj7wc.webp)
 
 ![image](https://i.loli.net/2020/04/08/G1XuwB3tsYb8KRl.png)
+![image](https://github.com/RayTsanger/picx-images-hosting/raw/master/20260323/kingview7.6f18y8lwal.webp)
 
 &emsp;&emsp;2.3.8 点击开发画面中文件---全部存，保存画面。  
 &emsp;&emsp;2.3.9 点击开发画面中文件---切换到View，打开运行画面，点击登录，开始预览，即可显示摄像头监控画面。
 
 ![image](https://i.loli.net/2020/04/08/GwV3fFMnt4zEKNb.png)
+![image](https://github.com/RayTsanger/picx-images-hosting/raw/master/20260323/kingview8.5q7ze7yda5.webp)
 
 &emsp;&emsp;2.3.10 常用命令语言如下  
     &emsp;&emsp;a、登录Login("192.0.0.64",8000,"admin","12345");  
